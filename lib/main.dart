@@ -73,23 +73,22 @@ class _NavBarState extends State<NavBar> {
     return NavigationBar(
       labelBehavior: NavigationDestinationLabelBehavior.onlyShowSelected,
       selectedIndex: appState.selectedPageIndex,
-      onDestinationSelected: (value) {
+      onDestinationSelected: (value) {  
         setState(() {
           appState.selectedPageIndex = value;
         });
         switch (appState.selectedPageIndex) {
           case 0:
-            print('home');
             Navigator.pushNamed(context, '/home');
             break;
           case 1:
-            Navigator.pushNamed(context, '/profile');
+            // Navigator.pushNamed(context, '/profile');
             break;
           case 2:
             Navigator.pushNamed(context, '/control');
             break;
           case 3:
-            Navigator.pushNamed(context, '/setting');
+            // Navigator.pushNamed(context, '/setting');
             break;
         }
       },
