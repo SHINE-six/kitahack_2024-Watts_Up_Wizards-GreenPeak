@@ -12,12 +12,7 @@ GreenPeak is a comprehensive Home Energy Management System (HEMS) implemented as
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Technology Architecture](#technology-architecture)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Nature of this Project](#nature-of-this-project)
 
 ## Introduction
 
