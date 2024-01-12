@@ -3,10 +3,10 @@
 GreenPeak is a comprehensive Home Energy Management System (HEMS) implemented as a Flutter mobile application. This project integrates powerful AI and IoT technologies to provide users with automated energy monitoring, community impact, cost savings, safety, and more.
 
 ## Link to the GreenPeak Demo Video
-![GreenPeak Demo](https://www.youtube.com/watch?v=ZIhjW6q7F4s)
+[GreenPeak Demo](https://www.youtube.com/watch?v=ZIhjW6q7F4s)
 
 ## Link to Figma Prototype
-![GreenPeak Figma Prototype](https://www.figma.com/proto/EvBmKmPes239ieI2GLW7Z1/Kitahack?type=design&node-id=251-706&t=CGnHL29nwBvEZxwp-1&scaling=scale-down&page-id=26%3A810&starting-point-node-id=251%3A706)
+[GreenPeak Figma Prototype](https://www.figma.com/proto/EvBmKmPes239ieI2GLW7Z1/Kitahack?type=design&node-id=251-706&t=CGnHL29nwBvEZxwp-1&scaling=scale-down&page-id=26%3A810&starting-point-node-id=251%3A706)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -53,7 +53,7 @@ GreenPeak addresses the challenges of high energy costs, environmental impact, a
 
 ## Technology Architecture
 
-![GreenPeak Architecture](assetForReadME\HighLevelComponentArchitecture.png)
+![GreenPeak Architecture](assetForReadME/HighLevelComponentArchitecture.png)
 
 GreenPeak employs a sophisticated technology stack, seamlessly integrating various components to deliver a powerful Home Energy Management System (HEMS) with an emphasis on user interaction, AI-driven insights, and IoT device control.
 
