@@ -9,10 +9,21 @@ GreenPeak is a comprehensive Home Energy Management System (HEMS) implemented as
 [GreenPeak Figma Prototype](https://www.figma.com/proto/EvBmKmPes239ieI2GLW7Z1/Kitahack?type=design&node-id=251-706&t=CGnHL29nwBvEZxwp-1&scaling=scale-down&page-id=26%3A810&starting-point-node-id=251%3A706)
 
 ## Table of Contents
+- [Challenges](#Challenges)
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Technology Architecture](#technology-architecture)
+- [Future Prospect](#future-prospect)
 - [Nature of this Project](#nature-of-this-project)
+
+## Challenges
+
+**1. High Energy Costs**
+   Due to the dependency of electical appliances in our daily life, rising energy expenses and carbon taxes if taking a significant burden in the daily expenses, this shows the need for efficient energy consumption solution has never been more crucial.
+**2. Environmental Impact**
+   Energy production is a leading cause of air pollution, particularly carbon emissions. Coupled with a general lack of energy utilization knowledge, this leads to significant waste and rising global temperatures, calling for immediate action toward sustainable energy practice.
+**3. Convenience and Safety with IoT Devices**      
+   As our homes become smarter, managing a multiple of IoT devices become more complex and time-consuming. The safety of these devices, especially for vulnerable groups like children and the elderly, is paramount, given the potential hidden risks associated with their widespread use.
 
 ## Introduction
 
@@ -106,6 +117,9 @@ Google BigQuery functions as a data warehouse, storing and processing informatio
 
 
 This orchestrated technology architecture aims to create a seamless and intelligent HEMS, ensuring optimal user experiences, efficient IoT device management, and continuous improvement through data-driven insights.
+
+## Future Prospect
+We aim to scale GreenPeak by deepening partnerships and diversifying our outreach. Our cloud-based architecture ensures technical scalability to meet growing demands. Upcoming features like a industry version, lite mode and a carbon credit trading platform are set to enhance user engagement further.
 
 ## Nature of this Project
 Copyright © [2024], [Watt's up Wizards]
