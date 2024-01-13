@@ -20,8 +20,10 @@ GreenPeak is a comprehensive Home Energy Management System (HEMS) implemented as
 
 **1. High Energy Costs**
    Due to the dependency of electical appliances in our daily life, rising energy expenses and carbon taxes if taking a significant burden in the daily expenses, this shows the need for efficient energy consumption solution has never been more crucial.
+   
 **2. Environmental Impact**
    Energy production is a leading cause of air pollution, particularly carbon emissions. Coupled with a general lack of energy utilization knowledge, this leads to significant waste and rising global temperatures, calling for immediate action toward sustainable energy practice.
+   
 **3. Convenience and Safety with IoT Devices**      
    As our homes become smarter, managing a multiple of IoT devices become more complex and time-consuming. The safety of these devices, especially for vulnerable groups like children and the elderly, is paramount, given the potential hidden risks associated with their widespread use.
 
