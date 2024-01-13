@@ -1,4 +1,4 @@
-# GreenPeak
+# GreenPeak  test
 
 GreenPeak is a comprehensive Home Energy Management System (HEMS) implemented as a Flutter mobile application. This project integrates powerful AI and IoT technologies to provide users with automated energy monitoring, community impact, cost savings, safety, and more.
 
