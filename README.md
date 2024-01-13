@@ -13,6 +13,7 @@ GreenPeak is a comprehensive Home Energy Management System (HEMS) implemented as
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Technology Architecture](#technology-architecture)
+- [Aligning with Sustainable Development Goals (SDGs)](#aligning-with-sustainable-development-goals-sdgs)
 - [Future Prospect](#future-prospect)
 - [Nature of this Project](#nature-of-this-project)
 
@@ -117,6 +118,9 @@ Google BigQuery functions as a data warehouse, storing and processing informatio
 
 
 This orchestrated technology architecture aims to create a seamless and intelligent HEMS, ensuring optimal user experiences, efficient IoT device management, and continuous improvement through data-driven insights.
+
+## Aligning with Sustainable Development Goals (SDGs)
+GreenPeak proudly aligns with multiple SDGs, including clean energy (SDG 7), sustainable infrastructure (SDG 9), sustainable cities (SDG 11), responsible consumption (SDG 12), climate action (SDG 13), and partnerships for these goals (SDG 17).
 
 ## Future Prospect
 We aim to scale GreenPeak by deepening partnerships and diversifying our outreach. Our cloud-based architecture ensures technical scalability to meet growing demands. Upcoming features like a industry version, lite mode and a carbon credit trading platform are set to enhance user engagement further.
